@@ -496,4 +496,4 @@ def predict(filename='weights.pkl'):
 
 if __name__ == '__main__':
     fit()
-    predict(
+    predict()
