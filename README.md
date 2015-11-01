@@ -1,13 +1,17 @@
 # LearningTheano
 Modified https://github.com/lisa-lab/DeepLearningTutorials version for real project use.
 
-## LeNet model for testing arbitrary amount of testing data
-Codes are in "LeNet" directory.
-Tested Environment: RAM 32GB, GPU GTX 970
-Status of the code: under modifying.
+## LeNet model for testing arbitrary amount of testing data/n
 
-**Running Steps**
-$ python imagestopkl.py
+Codes are in "LeNet" directory./n
+
+Tested Environment: RAM 32GB, GPU GTX 970/n
+
+Status of the code: under modifying./n
+
+**Running Steps**/n
+
+$ python imagestopkl.py/n
 
 $ python imagestopklFTest.py
 
